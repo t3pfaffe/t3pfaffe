@@ -1,10 +1,28 @@
-### Hi there 👋
+## Hi there 👋
+I'm an Aerospace Engineering student at the University at Buffalo and CS enthusiast. My professional interests are in embeded software design and GNC (Guidance, Navigation, & Control) Engineering. On the side I have interests in FOSS and utilizing Linux/FreeBSD for self-hosting my own software services. 
+
+#### My GitHub History:
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=t3pfaffe&theme=nord&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=t3pfaffe&theme=nord&show_icons=true&count_private=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=t3pfaffe&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+#### My Top Projects
+<a href="https://github.com/t3pfaffe/tux-dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t3pfaffe&repo=tux-dotfiles&theme=nord" />&nbsp;&nbsp;
+</a>
+<a href="https://github.com/t3pfaffe/NetSentry">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t3pfaffe&repo=NetSentry&theme=nord" />&nbsp;&nbsp;
+</a>
+
+##### My Current Project:
+<a href="https://github.com/t3pfaffe/BestBuy-Walmart-Automated-Checkout-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t3pfaffe&repo=BestBuy-Walmart-Automated-Checkout-Bot&theme=nord" />&nbsp;&nbsp;
+</a>
 
 <!--
 **t3pfaffe/t3pfaffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=t3pfaffe)](https://github.com/ryo-ma/github-profile-trophy)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,6 +31,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
