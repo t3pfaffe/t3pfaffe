@@ -3,7 +3,7 @@
   <img align='left' src="https://github-readme-stats-t3pfaffe.vercel.app/api/top-langs?username=t3pfaffe&theme=nord&show_icons=true&count_private=true" />
 </p>
 
-I'm an Aerospace Engineering student at the University at Buffalo and a CS enthusiast. My professional interests are in embeded software design and GNC (Guidance, Navigation, & Control) Engineering. On the side I have interests in FOSS and utilizing Linux/FreeBSD for self-hosting my own software services. 
+I'm an Aerospace Engineering student at the University at Buffalo and a CS enthusiast. My professional interests are in embedded software design and GNC (Guidance, Navigation, & Control) Engineering. On the side, I have interests in FOSS and utilizing Linux/FreeBSD for self-hosting my own software services.
 
 <img src="https://github-readme-stats-t3pfaffe.vercel.app/api?username=t3pfaffe&theme=nord&show_icons=true&count_private=true&line_height=23" />
 
